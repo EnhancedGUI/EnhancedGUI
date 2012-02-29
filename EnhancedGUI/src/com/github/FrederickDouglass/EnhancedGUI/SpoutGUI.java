@@ -3,7 +3,7 @@ package com.github.FrederickDouglass.EnhancedGUI;
 import org.getspout.spoutapi.keyboard.Keyboard;
 import com.gmail.nossr50.config.LoadProperties;
 
-
+//This class creates the configs for the GUI
 public class SpoutGUI
 {
 	public static Keyboard keypress;
