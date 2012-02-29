@@ -4,6 +4,7 @@ import org.getspout.spoutapi.keyboard.Keyboard;
 import com.gmail.nossr50.config.LoadProperties;
 
 //This class creates the configs for the GUI
+//This is an additional comment, so I can see if I finally have figured git out
 public class SpoutGUI
 {
 	public static Keyboard keypress;
