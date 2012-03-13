@@ -1,4 +1,4 @@
-//Dougs Test Comment
+//Updated the file path for the API libraries
 package com.github.FrederickDouglass.EnhancedGUI;
 
 import java.io.File;
