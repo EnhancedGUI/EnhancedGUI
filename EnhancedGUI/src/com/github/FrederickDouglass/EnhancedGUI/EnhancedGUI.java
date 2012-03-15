@@ -37,7 +37,7 @@ public class EnhancedGUI extends JavaPlugin
 		file = new File(getDataFolder(), "config.yml");
 		
 		getServer().getPluginManager().registerEvents(new EGListener(this),this);
-		
+		getServer().getPluginManager().registerEvents(new SampleListener(),this);
 	}
 	
 	
