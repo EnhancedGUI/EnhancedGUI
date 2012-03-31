@@ -1,0 +1,18 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/.metadata
+
+# various other potential build files
+/build
+/bin
+/dist
+/world
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
